@@ -1,0 +1,8 @@
+git clone <fork or link.git> ### to make a local copy
+git status
+git add <filename>
+git commit -m<message>
+git push   ### to update changes to github
+git init   ### Create a new local repository
+git log
+git pull origin main  ### update the local copy
