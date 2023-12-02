@@ -1,2 +1,2 @@
 # learning
-# first repository
+first repository
